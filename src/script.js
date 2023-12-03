@@ -100,7 +100,6 @@ card.forEach((curvalue) => {
             <p>Use a coupon code 'hfg74dh' of this extra benfit uisng credit-card.</p>
             <p>Most of the valuable cost effective cost benifit.</p>
             <button class="btn3"><a href="#Shop" onclick="backHome()">Back</a></button>
-            <button class="btn3"><a id="buyItem">Buy Now</a></button>
 
         </div>`
         document.getElementById('ul').style.visibility = "hidden";
